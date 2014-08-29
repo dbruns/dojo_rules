@@ -3,3 +3,4 @@ My dead skills are:
 * Ruby
 * Python
 * Bo Staff
+* Killing history using git rebase
